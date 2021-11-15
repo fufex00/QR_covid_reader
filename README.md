@@ -6,7 +6,7 @@ Simple react native aplication to read the Costa Rican QR code certification for
 
 ## Getting Started
 Aplication made with react native and expo cli.
-Backend was made with node js and is hosted on heroku.
+API rest was made with node js and is hosted on heroku.
 
 ### Dependencies
 just run npm install
