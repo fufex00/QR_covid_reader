@@ -2,10 +2,10 @@
 
 ## Description
 
-Simple aplication to read the Costa Rican QR code certification for the covid vaccine. 
+Simple react native aplication to read the Costa Rican QR code certification for the covid vaccine. 
 
 ## Getting Started
-Aplication made with react native and expo cli
+Aplication made with react native and expo cli.
 Backend was made with node js and is hosted on heroku.
 
 ### Dependencies
